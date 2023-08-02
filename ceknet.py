@@ -1,4 +1,4 @@
-# A simple tool for managing network adapters on your local machine.
+# A simple tool for managing network adapters on your Windows local machine.
 
 import json
 import sys
