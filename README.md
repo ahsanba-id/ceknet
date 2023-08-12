@@ -2,16 +2,20 @@
 Ceknet is a simple tool for managing network adapters on your Windows local machine. Native for cmd and cygwin only. Requires netsh and psutil module to work properly.
 
 # Background
-Linux, especially Kali or Parrot, is like the ultimate cybersecurity superhero, catering to a multitude of security needs and packed with a lot of powerful commands, including all that network magic you can work with through the commmand-line. On the other hand, Windows boasts a ton of flashy GUI features but falls short on lightweight and straightforward CLI programs. Python is a lifesaver, making ceknet here to fill those gaps as I use it to learn more about networking.
+Linux, especially Kali or Parrot, is like the ultimate cybersecurity superhero, catering to a multitude of security needs and packed with a lot of powerful commands, including all that network magic you can work with through the CLI commmand-line. On the other hand, unlike Linux, Windows boasts a ton of flashy GUI features but falls short on lightweight and straightforward CLI programs. Python is a lifesaver, making ceknet here to fill those gaps as I use it to learn more about networking.
 
 # Installation
 1. Install python.
 2. Install psutil module in cmd terminal:
+   ```bash
    pip install psutil
-3. You may create a directory named 'Ceknet' for easy organizing. However, you can basically place it anywhere in the directory you like.
-4. Copy the 'ceknet.py' file into the folder. You only need 'ceknet.py'. File with a .lang extension is for translation purposes. If you want it in English, you can ignore or delete the .lang file."
-5. Head over to the 'Ceknet' folder and see if ceknet is working:
+   ```
+4. You may create a directory named 'Ceknet' for easy organizing. However, you can basically place it anywhere in the directory you like.
+5. Copy the 'ceknet.py' file into the folder. You only need 'ceknet.py'. File with a .lang extension is for translation purposes. If you want it in English, you can ignore or delete the .lang file."
+6. Head over to the 'Ceknet' folder and see if ceknet is working:
+   ```bash
    python ceknet.py --help
+   ```
 
 # How to use:
 You can add argument --help for more information.
