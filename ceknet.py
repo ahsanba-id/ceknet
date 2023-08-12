@@ -1,5 +1,8 @@
 # A simple tool for managing network adapters on your Windows local machine.
 
+# Disclaimer: This program is provided as-is, and I am not responsible for any misuse, damages, or consequences resulting from its use.
+# Use this program responsibly and follow any applicable laws and guidelines. By using this code, you acknowledge and agree to these terms.
+
 import json
 import sys
 import os
