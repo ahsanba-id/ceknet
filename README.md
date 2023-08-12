@@ -1,5 +1,5 @@
-# ceknet
-Ceknet is a simple tool for managing network adapters on your Windows local machine.
+# Description
+Ceknet is a simple tool for managing network adapters on your Windows local machine. Requires netsh and psutil module to work properly.
 
 # Background
 Linux, especially Kali or Parrot, is like the ultimate cybersecurity superhero, catering to a multitude of security needs and packed with a lot of powerful commands, including all that network magic you can work with through the commmand-line. On the other hand, Windows boasts a ton of flashy GUI features but falls short on lightweight and straightforward CLI programs. Ceknet is here to fill those gaps as I use it to learn more about networking.
@@ -8,14 +8,14 @@ Linux, especially Kali or Parrot, is like the ultimate cybersecurity superhero, 
 1. Install python.
 2. Install psutil module in cmd terminal:
    pip install psutil
-3. Create a directory named 'Ceknet' for easy organization of files in the future. However, you can basically place it anywhere in the directory you like.
+3. Create a directory named 'Ceknet' for easy organizing. However, you can basically place it anywhere in the directory you like.
    mkdir Ceknet
 4. Copy the 'ceknet.py' file into the folder. You only need 'ceknet.py'. Any file with a .lang extension is for translation purposes. If you want it in English, you can ignore or delete the .lang file."
 5. Head over to the 'Ceknet' folder and see if ceknet is working:
    python ceknet.py --help
 
 # How to use:
-You can add argument --help to list all what this program can do.
+You can add argument --help for more information.
 
 # Credit
 Special thanks to csbygb for her amazing pentest research, and to the many senior cybersecurity experts whose blogs I encountered along the way. This is amazing journey.
