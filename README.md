@@ -12,9 +12,9 @@ Linux, especially Kali or Parrot, is like the ultimate cybersecurity superhero, 
    ```
 4. You may create a directory named 'Ceknet' for easy organizing. However, you can basically place it anywhere in the directory you like.
 5. Copy the 'ceknet.py' file into the folder. You only need 'ceknet.py'. File with a .lang extension is for translation purposes. If you want it in English, you can ignore or delete the .lang file."
-6. Head over to the 'Ceknet' folder and see if ceknet is working:
+6. Head over to the folder you use and see if ceknet is working:
    ```bash
-   python ceknet.py --help
+   python ceknet.py -v
    ```
 
 # How to use:
