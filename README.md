@@ -23,7 +23,7 @@ You can add argument --help for more information.
 ![Help](images/png1.png)
 
 # Credit
-Special thanks to csbygb for her amazing pentest research, and to the many senior cybersecurity experts whose blogs I encountered along the way. This is amazing journey.
+Special thanks to CSbyGB for her amazing pentest research, and to the many senior cybersecurity experts whose blogs I encountered along the way. This is amazing journey.
 
 # References:
 1. https://docs.python.org/3/library/index.html
