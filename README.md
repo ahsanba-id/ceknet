@@ -7,7 +7,7 @@ Linux, especially Kali or Parrot, is like the ultimate cybersecurity superhero, 
 # Used to:
 1. Enable or disable network adapters.
 2. Check your public IP address.
-3. Listing all network adapters.
+3. List all network adapters.
 4. Display data usage statistics in real-time.
 5. Display established network connection in real-time.
 
