@@ -4,6 +4,12 @@ Ceknet is a simple tool for managing network adapters on your Windows local mach
 # Background
 Linux, especially Kali or Parrot, is like the ultimate cybersecurity superhero, catering to a multitude of security needs and packed with a lot of powerful commands, including all that network magic you can work with through the CLI commmand-line. On the other hand, unlike Linux, Windows boasts a ton of flashy GUI features but falls short on lightweight and straightforward CLI programs. Python is a lifesaver, making ceknet here to fill those gaps as I use it to learn more about networking.
 
+# Used to:
+1. Enable or disable network adapters.
+2. Check your public IP address.
+3. Listing all network adapters.
+4. Displaying data usage statistics.
+
 # Installation
 1. Install python.
 2. Install psutil module in cmd terminal:
