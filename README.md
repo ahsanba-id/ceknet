@@ -29,6 +29,30 @@ You can add argument --help for more information.
 
 ![Help](images/png1.png)
 
+1. Enable or disable network adapters.
+   ```bash
+   python ceknet.py -i "Wi-Fi" -on
+   ```
+   ```bash
+   python ceknet.py -i "Wi-Fi" -off
+   ```
+2. Check your public IP address.
+   ```bash
+   python ceknet.py -ip
+   ```
+3. List all network adapters.
+   ```bash
+   python ceknet.py -la
+   ```
+4. Display data usage statistics in real-time.
+   ```bash
+   python ceknet.py -i "Wi-Fi" -tl
+   ```
+5. Display established network connection in real-time.
+   ```bash
+   python ceknet.py -c
+   ```
+
 # Credit
 Special thanks to CSbyGB for her amazing pentest research, and to many cybersecurity experts whose blogs I encountered along the way for this amazing journey.
 
