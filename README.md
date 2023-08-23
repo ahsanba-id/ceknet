@@ -62,3 +62,5 @@ Special thanks to CSbyGB for her amazing pentest research, and to many cybersecu
 3. https://docs.python.org/3/library/subprocess.html
 4. https://learn.microsoft.com/en-us/windows-server/networking/technologies/netsh/netsh-contexts
 5. https://csbygb.github.io/
+
+## PS: I'm still at the beginner level, but I'm eager to learn and improve. Your valuable feedback means a lot to me, and I'm genuinely grateful for any insights or suggestions you're willing to share. Thank you so much for your support and guidance; it truly helps me grow and develop my skills.
