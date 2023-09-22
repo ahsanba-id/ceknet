@@ -12,7 +12,7 @@ Linux, especially Kali or Parrot, is like the ultimate cybersecurity superhero, 
 5. Display established network connection in real-time.
 
 # Installation
-1. Install python.
+1. Install [Python](https://www.python.org/downloads/).
 2. Install psutil module in cmd terminal:
    ```bash
    pip install psutil
